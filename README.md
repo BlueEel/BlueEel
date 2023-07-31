@@ -5,7 +5,7 @@ Après quelques années dans l'histoire, j'ai décidé de me reconvertir. Je sui
 (3 semaines en entreprise / 1 semaine en formation => pendant 1 an : à partir de septembre 2023) : en vue de passer le titre de « Concepteur développeur d’applications »<br>- 🌱 Je suis en train d'apprendre React, Typescript et React Native. <br>- 💬 Posez-moi des questions si vous êtes intéressé
 par mon profil.<br>- ⚡ Fait amusant : « le code c’est la vie »
 
-# 💫 🇺🇸 🇬🇧 About Me :
+# 💫 🇺🇸 About Me 🇬🇧 :
 Hello, I'm Baptiste ! <br>
 After a few years in history, I've decided to change careers. I'm passionate about web development and new technologies. I like working in a team. I'm rigorous and creative, with an eye for detail. <br>
 - 💻 I'm currently working with PHP-SYMFONY. <br>- 🤜 🤛 I'm looking to collaborate on many projects to enrich and sharpen my experience. <br>- 🙏 I'm looking for help to find a professional contract ALTERNANCE as a web and mobile developer : <br>(3 weeks in the company / 1 week in training => for 1 year: from September 2023): with a view to taking the "Application Developer Designer" qualification.<br>- 🌱 I'm currently learning React, Typescript and React Native. <br>- 💬 Ask me questions if you're interested<br>in my profile.<br>- ⚡ Fun fact: "code is life."
